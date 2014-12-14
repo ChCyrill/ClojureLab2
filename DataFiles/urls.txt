@@ -1,0 +1,3 @@
+https://example.com/
+http://www.example.com/login.php?redirect=
+http://www.somacon.com/color/html_css_table_border_styles.php
